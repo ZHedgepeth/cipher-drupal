@@ -1,0 +1,5 @@
+name = Shift Cipher
+description = Shift Cipher replaces a letter entered with a letter corresponding to entered position variables
+package = My First Modules
+core = 7.x
+files[] = shift_cipher.module
